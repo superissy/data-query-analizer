@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+gunicorn
+mysql-connector-python
+numpy
+pandas
+passlib
+WTForms
